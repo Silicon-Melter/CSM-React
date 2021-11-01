@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307531088406",
+    "project_id": "ez12-d3a4f",
+    "storage_bucket": "ez12-d3a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307531088406:android:594eba18f81292c87feb37",
+        "android_client_info": {
+          "package_name": "com.rn_starter_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307531088406-a1orh7cmu8tefp9lr4t5bcutb6ahnq9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0oAdlEsqYC_3Cct5olMlGHSzG0dvRGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307531088406-a1orh7cmu8tefp9lr4t5bcutb6ahnq9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
